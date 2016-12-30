@@ -1,0 +1,21 @@
+.margin-top{
+    margin-top: 100px;
+}
+
+#quote-content{
+    font-family: 'Arima Madurai', cursive;
+    text-align: center;
+    
+}
+
+#quote-title{
+    font-family: 'Arima Madurai', cursive;
+    text-align: center;
+    font-weight:bold
+}
+
+.heading{
+    font-family: 'Lobster Two', cursive;
+    font-size: 5em;
+    text-shadow: 1px 1px 2px black; 
+}
